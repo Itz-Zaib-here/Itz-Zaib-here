@@ -71,8 +71,7 @@ Here are some of the projects I've built and loved working on:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itz-Zaib-here&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Zaib-here&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Zaib-here&layout=compact&theme=radical" width="auto"/>
 </p>
 
 ---
