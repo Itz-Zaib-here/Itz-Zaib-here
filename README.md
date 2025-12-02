@@ -68,13 +68,7 @@
 ## 🚀 Featured Work
 
 <div align="center">
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itz-Zaib-here&theme=tokyonight" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itz-Zaib-here&theme=tokyonight" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itz-Zaib-here&theme=tokyonight" />
-
 </div>
 
 
@@ -87,10 +81,6 @@
 
   <!-- 📊 General Stats (NEW MIRROR – WORKING) -->
   <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Itz-Zaib-here&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <!-- 🧠 Top Languages (NEW MIRROR – WORKING) -->
-  <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Itz-Zaib-here&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
