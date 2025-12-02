@@ -1,81 +1,115 @@
-<h1 align="center">👋 Hi, I'm Shah Zaib</h1>
+<h1 align="center">✨ Shah Zaib — Full-Stack Developer</h1>
 <p align="center">
-  💻 Full-Stack Developer • 🅰️ Angular Enthusiast • ⚙️ ASP.NET Core Developer • 🚀 Passionate about Clean UI/UX
+  <strong>Angular • ASP.NET Core • SQL Server • Clean UI/UX Enthusiast</strong>
+</p>
+
+<br/>
+
+<!-- 💎 Glass Card About Me -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-00ffe1?style=for-the-badge&logo=github&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Angular_Expert-f43f5e?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-6d28d9?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</div>
+
+---
+
+# ⚡ About Me
+<div align="center">
+
+💡 I build **modern full-stack apps** with clean UI/UX & strong backend logic.  
+🧩 Passionate about **Angular**, **ASP.NET Core APIs**, and **SQL Server**.  
+🚀 I turn ideas into **scalable, real-world applications**.  
+🎨 My focus: **performance, animations, and great user experience**.
+
+</div>
+
+---
+
+# 🛠 Tech & Tools
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap&perline=7">
+</div>
+
+### ⚙ Backend & Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,postgres,mysql&perline=6">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/🔐%20Role-Based%20Auth%20System-1e1e2e?style=for-the-badge&logo=angular&logoColor=white" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/🏪%20Inventory%20Management-1e1e2e?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌦%20Weather%20Dashboard-1e1e2e?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/🎬%20MCU%20Movie%20Search-1e1e2e?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+## 🚀 Featured Work
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itz-Zaib-here&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itz-Zaib-here&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itz-Zaib-here&theme=tokyonight" />
+
+</div>
+
+
+## 🚀 GitHub Analytics
+
+<div align="center">
+
+  <!-- 🔥 Streak Stats -->
+  <img height="170" src="https://streak-stats.demolab.com?user=Itz-Zaib-here&theme=tokyonight&hide_border=true" />
+
+  <!-- 📊 General Stats (NEW MIRROR – WORKING) -->
+  <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Itz-Zaib-here&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <!-- 🧠 Top Languages (NEW MIRROR – WORKING) -->
+  <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Itz-Zaib-here&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:itz.zaib.here@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff595e?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shah-zaib-akmal">
+    <img src="https://img.shields.io/badge/LinkedIn-1982FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Itz-Zaib-here">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-I'm a **Full-Stack Developer** specializing in **Angular** and **ASP.NET Core Web API**.  
-I love building modern, scalable web applications with beautiful UI and efficient backend logic.  
-With hands-on experience in **frontend**, **backend**, and **database** layers, I enjoy turning ideas into fully functional products.
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Web%20API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ADO.NET-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
----
-
-## 🧩 Featured Projects
-
-Here are some of the projects I've built and loved working on:
-
-- 🔐 **Role-Based Auth System**  
-  `Angular + ASP.NET Core Web API + SQL Server` – Secure login system with JWT authentication, user roles, and route protection.
-
-- 🏪 **Inventory Management System (MVC + ADO.NET)**  
-  `ASP.NET MVC + SQL Server` – CRUD operations, dynamic search, and real-time validation built using ADO.NET and stored procedures.
-
-- 🌦️ **Weather Dashboard**  
-  `Angular + REST API` – Real-time weather updates with interactive charts and responsive layout.
-
-- 🎬 **MCU Movie Search App**  
-  `Angular + TMDb API` – Search, explore, and view detailed info about Marvel movies.
-
-- ❤️ **Romantic Surprise Webpage**  
-  A heart-themed, animated web experience with sound and creative transitions – made as a personal gift.
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:itz.zaib.here@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shah-zaib-akmal"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Itz-Zaib-here"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Zaib-here&layout=compact&theme=radical" width="auto"/>
-</p>
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
+<p align="center"><i>“Great code is like art — clean, expressive, and beautiful.”</i></p>
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad.”</i></p>
