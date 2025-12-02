@@ -99,7 +99,7 @@
 
 <p align="center">
   <a href="mailto:itz.zaib.here@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff595e?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ff595e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shah-zaib-akmal">
     <img src="https://img.shields.io/badge/LinkedIn-1982FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
