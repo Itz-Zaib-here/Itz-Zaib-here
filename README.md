@@ -75,10 +75,6 @@
 ## 🚀 GitHub Analytics
 
 <div align="center">
-
-  <!-- 🔥 Streak Stats -->
-  <img height="170" src="https://streak-stats.demolab.com?user=Itz-Zaib-here&theme=tokyonight&hide_border=true" />
-
   <!-- 📊 General Stats (NEW MIRROR – WORKING) -->
   <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Itz-Zaib-here&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
