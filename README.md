@@ -72,15 +72,6 @@
 </div>
 
 
-## 🚀 GitHub Analytics
-
-<div align="center">
-  <!-- 📊 General Stats (NEW MIRROR – WORKING) -->
-  <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Itz-Zaib-here&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 # 🔗 Connect With Me
 
 <p align="center">
